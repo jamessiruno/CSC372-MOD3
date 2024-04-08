@@ -29,7 +29,7 @@ public class UiByJames extends JFrame {
         JMenuItem showDateTimeItem = new JMenuItem("What's the date today?");
         JMenuItem writeToLogFileItem = new JMenuItem("Show me the logs");
         JMenuItem changeBackgroundColorItem = new JMenuItem("I'm feeling orange-y");
-        JMenuItem exitItem = new JMenuItem("Time to roll out");
+        JMenuItem exitItem = new JMenuItem("Fire Exit Here");
 
         // Add menu items to the File menu
         fileMenu.add(showDateTimeItem);
